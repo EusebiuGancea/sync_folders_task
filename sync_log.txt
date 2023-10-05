@@ -1,0 +1,25 @@
+Sync started.
+dirsync finished in 0.00 seconds.
+1 directories parsed, 1 files copied
+
+Sync completed.
+Sync started.
+dirsync finished in 0.0 seconds.
+1 directories parsed, 0 files copied
+
+Sync completed.
+Sync started.
+dirsync finished in 0.0 seconds.
+1 directories parsed, 0 files copied
+
+Sync completed.
+Sync started.
+dirsync finished in 0.00 seconds.
+1 directories parsed, 1 files copied
+
+Sync completed.
+Sync started.
+dirsync finished in 0.00 seconds.
+1 directories parsed, 2 files copied
+
+Sync completed.
